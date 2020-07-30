@@ -2,7 +2,7 @@
 ***
  Jogo pong escrito em C utilizando biblioteca ncurses.
 
- ## Controles 
+ ## Controles:video_game:
 
  * Jogador 1:
 
