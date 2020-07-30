@@ -1,6 +1,6 @@
 # Pong
 ***
- Jogo pong escrito em C utilizando ncurses.
+ Jogo pong escrito em C utilizando biblioteca ncurses.
 
  ## Controles 
 
