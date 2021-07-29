@@ -1,6 +1,6 @@
 # Pong:video_game::joystick:
 ***
- Jogo pong escrito em C utilizando biblioteca ncurses.
+ Jogo pong escrito em C utilizando a biblioteca ncurses.
 
  ## Controles
 
